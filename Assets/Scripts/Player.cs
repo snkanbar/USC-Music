@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
     public float TurnSmoothTime = 0.1f;
 
     public Animator Anim;
-   public float AnimSpeedAdjust = 1.5f;
+    public float AnimSpeedAdjust = 1.5f;
 
     private float _turnSmoothVelocity;
     private Vector3 _velocity;

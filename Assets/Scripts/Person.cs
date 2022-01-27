@@ -6,7 +6,7 @@ using System.Linq;
 
 public class Person : MonoBehaviour
 {
-    public string[] TargetTypes = new string[] { "PARK", "CORNERS" };  
+    public string[] TargetTypes = new string[] { "PARK", "CORNERS" };
     public GameObject[] Targets;
     public float ReachedTargetDistance = 3;
     public bool ShuffleTargets = true;
