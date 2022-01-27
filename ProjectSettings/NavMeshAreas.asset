@@ -23,25 +23,25 @@ NavMeshProjectSettings:
     cost: 1
   - name: STREET
     cost: 1
-  - name: EVERYTHING
+  - name: 
     cost: 1
-  - name: FREEWAY
+  - name: 
     cost: 1
-  - name: METRO
+  - name: 
     cost: 1
-  - name: PARKING LOT
+  - name: 
     cost: 1
-  - name: PED/MICRO
+  - name: 
     cost: 1
-  - name: RIDEHAIL
+  - name: 
     cost: 1
-  - name: SHUTTLE ONLY
+  - name: 
     cost: 1
-  - name: SHUTTLE/MICRO
+  - name: 
     cost: 1
-  - name: SIDEWALK
+  - name: 
     cost: 1
-  - name: STREET
+  - name: 
     cost: 1
   - name: 
     cost: 1
